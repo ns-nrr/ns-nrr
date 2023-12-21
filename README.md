@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nethra, call me Nyra 
-- 👀 I’m interested in automation and robotics currently, I have knowledge in cybersec and networking however
+- 👀 I’m interested in automation and robotics currently, I have knowledge in cybersec ( binary, web, reverse, social eng..etc )  and networking however
 - 🌱 I’m currently learning Cloud 
 
 <!---
