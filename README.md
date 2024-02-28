@@ -11,8 +11,11 @@ I like doing activities such as surfing, mountain biking, or cross-country runni
 * ♟️ | Magnetic automatic chessboard
 * 🌊 | Underwater research bot
 * 🧠 | Mind-controlled Super Mario Kart
-* 🦿 | Reverse kinematics included quad robot
-* 🧙🏻 | Learning and building a 3D game ( Unreal5 ) 
+* 🧙🏻 | Learning and building a 3D game ( Unreal5 )
+
+### Future Projects
+ * 💻 | Browser which helps Corals
+
 
 ### Contact Me
 You will be able to contact me using nyra.ns.999@gmail.com for questions or offers! ✉️
