@@ -1,20 +1,20 @@
-## Ahoy, I am Nethra 
-I recently started working more on learning more robotics after a massive burnout. I enjoy participating in projects but I am focusing on doing solo projects right now :). 
-Currently, I'm doing Y2 in the IB program 🤟
+## Ahoy, Nethra here 
+I started working on learning more robotics and backend in general after a massive burnout. I enjoy participating in projects but I prefer working alone for now.
+Currently, I'm giddying through Y2 in the IB program 
 
 ### About Me
-I like doing activities such as surfing, mountain biking, or cross-country running. I enjoy activities that include nature. I have been thinking about starting a YT channel where I can upload GoProPOV, CS WIPs, and other stuff I enjoy 📸. 
+I like activities such as Surfing, MTB, Terrariums and crafts. I enjoy being close to nature. I have been thinking about starting a YT channel where I would be able to upload GoProPOVs, Project Compilation, and other activities I enjoy. 📸
 
 ### Ongoing Projects 
 * 🛹 | Arduino-powered Customized electric skateboard
-* 🏎️ | Arduino powered go kart
-* ♟️ | Magnetic automatic chessboard
 * 🌊 | Underwater research bot
 * 🧠 | Mind-controlled Super Mario Kart
-* 🧙🏻 | Learning and building a 3D game ( Unreal5 )
 
 ### Future Projects
- * 💻 | Browser which helps Corals
+* 💻 | Browser which helps Corals 
+* 🏎️ | Arduino powered go kart
+* ♟️ | Magnetic automatic chessboard
+* 🧙🏻 | Learning and building a 3D game ( Unreal5 )
 
 
 ### Contact Me
